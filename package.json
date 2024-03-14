@@ -1,0 +1,26 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "api for a social network application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinjl665/Social-Network-API.git"
+  },
+  "author": "devinjl665",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinjl665/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/devinjl665/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "moment": "^2.30.1",
+    "mongoose": "^8.2.1",
+    "nodemon": "^3.1.0"
+  }
+}
