@@ -6,11 +6,11 @@ The Challenge is to build an API for a social network web application where user
 
 ## Demo
 
+<a href="">Social Network API Demo Video</a>
 
+## Installation
 
-## Site Link
-
-<a href="">Deployed Site</a>
+In order for this application to function properly you must have Mongoose, Express.js, and Moment. Optionally, you can also install nodemon that will automatically restart your application when there are changes to your code, helping with debugging.
 
 ## Usage
 
@@ -18,7 +18,7 @@ The Challenge is to build an API for a social network web application where user
 
 ## Credits
 
-
+I wrote this code with the help of Wash U in Saint Louis coursework, Stack Overflow, and W3Schools.
 
 ## User Story
 
@@ -43,3 +43,7 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia
 
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+
+## Contact Me
+
+Email: [devinjl665@gmail.com](mailto:devinjl665@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
