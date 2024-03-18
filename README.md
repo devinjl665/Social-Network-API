@@ -10,11 +10,11 @@ The Challenge is to build an API for a social network web application where user
 
 ## Installation
 
-In order for this application to function properly you must have Mongoose, Express.js, and Moment. Optionally, you can also install nodemon that will automatically restart your application when there are changes to your code, helping with debugging.
+In order for this application to function properly you must have Mongoose, Express.js, and Moment. You will also need to have MongoDB in order to store the API's data. Optionally, you can also install nodemon that will automatically restart your application when there are changes to your code, helping with debugging.
 
 ## Usage
 
-
+Run `npm install` in the integrated terminal to install/update any dependencies needed. Then enter `npm start` to initiate your server. Once your server is running, navigate to Insomnia. In Insomnia, you will be able to see the full functionality of this API. You will be able to find, create, update, and delete all users and thoughts. You will also be able to add and remove friends and reactions.
 
 ## Credits
 
